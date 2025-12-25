@@ -117,5 +117,20 @@ public class day1 {
         System.out.println("num1 <= num2 : " + (num1 <= num2));
         System.out.println("num1 != num2 : " + (num1 != num2));
 
+        System.out.println();
+        System.out.println();
+
+        // Logical Operator
+        System.out.println("Logical Operator");
+
+        boolean tr = true;
+        boolean fa = false;
+
+        System.out.println("If tr && fa = " + (tr && fa));
+        System.out.println("If tr || fa = " + (tr || fa));
+        System.out.println("If !fa = " + (!fa));
+
+        
+
     }
 }

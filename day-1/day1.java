@@ -130,6 +130,18 @@ public class day1 {
         System.out.println("If tr || fa = " + (tr || fa));
         System.out.println("If !fa = " + (!fa));
 
+        System.out.println();
+        System.out.println();
+
+        //ternary operators
+        System.out.println("Ternary Operators");
+
+        int t1 = 5 , t2 = 4;
+
+        int max = (t1 > t2) ? t1 : t2 ;
+        
+        System.out.println("The max using ternary Opertaor:" + max);
+
         
 
     }

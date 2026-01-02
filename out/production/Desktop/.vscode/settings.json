@@ -1,0 +1,11 @@
+{
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.inlineSuggest.experimental.showOnSuggestConflict": "always",
+    "editor.tabCompletion": "on",
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggest.shareSuggestSelections": true
+}
